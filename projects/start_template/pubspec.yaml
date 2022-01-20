@@ -11,18 +11,22 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.4
+  #Firebase packages
   flutterfire_ui: ^0.3.1
-  auto_route: ^3.2.1
   firebase_core: ^1.11.0
-  textless: ^6.6.6
+  firebase_messaging: ^11.2.5
+  firebase_auth: ^3.3.5
+  #Http request
   http: ^0.13.4
+  #offline notes save
   sqflite: ^2.0.2
   path_provider: ^2.0.8
   intl: ^0.17.0
   fluttertoast: ^8.0.8
+  #dependency injection
   get_it: ^7.2.0
-  firebase_messaging: ^11.2.5
-  firebase_auth: ^3.3.5
+  google_fonts: ^2.2.0
+
 
 dev_dependencies:
   flutter_test:
