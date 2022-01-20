@@ -1,0 +1,4 @@
+flutter_native_splash:
+  background_image: "assets/images/background.png"
+  background_image_dark: "assets/images/backgrpund_black.png"
+  fullscreen: true

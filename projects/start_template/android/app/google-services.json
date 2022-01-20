@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "418114948133",
+    "project_id": "vnote-test",
+    "storage_bucket": "vnote-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418114948133:android:3f234e095fb38ac39e03cc",
+        "android_client_info": {
+          "package_name": "com.vchatsdk.vnote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418114948133-2s9uv9e234l2tlp157spcpnf4gt0ja01.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vchatsdk.vnote",
+            "certificate_hash": "41c7fa6a8b736fdbfb334102dd6ac856f54bc2b5"
+          }
+        },
+        {
+          "client_id": "418114948133-7hc53vsd5hetocgknspau7lnp8sc5itb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnLbWxd8cPnI9yTbUD7YJVorbx3cKyN-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418114948133-7hc53vsd5hetocgknspau7lnp8sc5itb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
